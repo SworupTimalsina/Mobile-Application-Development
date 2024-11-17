@@ -1,8 +1,8 @@
 //Program to Find Factorial
-void (){
+void main(){
     int number = 5;
-    int fact = Factorial(number);
-    print("The factorial of $number is $fact");
+    int fact = factorial(number);
+    print("The factorial of $number is $fact.");
 }
 
 int factorial(int n){
